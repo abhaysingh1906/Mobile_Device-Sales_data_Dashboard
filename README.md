@@ -2,6 +2,8 @@
 A comprehensive Power BI Interactive dashboard design to analyze Sales performance, transaction metrics, customer behaviour,and regional distributions for Mobile devices.
 
 # Mobile Device Sales Performance Dashboard (Power BI)
+<img width="975" height="531" alt="image" src="https://github.com/user-attachments/assets/fbeb72cf-9e6e-4914-a9b2-1055cf8d8dea" />
+
 
 ## 📌 Project Overview
 An interactive **Power BI Dashboard** designed to analyze dynamic mobile phone sales performance, customer purchasing behaviors, and regional distribution. This business intelligence solution consolidates transactional data into actionable insights, enabling stakeholders to optimize inventory management, track revenue growth, and evaluate customer satisfaction trends.
